@@ -1,0 +1,143 @@
+.logo-styling{
+    font-weight: 600;
+    color: black;
+}
+.navbar-logo{
+    font-weight: 600;
+    font-size: 1.5em;
+}
+.nav-logo-style{
+    color: green;
+    font-weight: 600;
+}
+
+#navItem1{
+    color: black;
+    font-weight: 500;
+    font-size: 1.2em;
+}
+#navItem2{
+    color: black;
+    font-weight: 500;
+    font-size: 1.2em;
+}
+#navItem3{
+    color: black;
+    font-weight: 500;
+    font-size: 1.2em;
+}
+#navItem4{
+    color: black;
+    font-weight: 500;
+    font-size: 1.2em;
+}
+
+.mobile-image{
+    width: 100%;
+}
+
+.featured-heading{
+    font-size: 2.5em;
+}
+
+.featured-posts{
+    font-size: 2em;
+}
+
+.card-image{
+    width: 95%;
+}
+
+.peace-green-color{
+    color: green;
+}
+
+
+.card-heading{
+    font-size: 1.2em;
+}
+
+.quotes-image{
+    width: 90%;
+}
+
+.featured-quotes{
+    font-size: 2em;
+}
+
+.bg-gradient{
+    background-image: radial-gradient(#9d00ee, #1a124c);
+}
+
+.email-image{
+    width: 60%;
+}
+
+.footer-heading{
+    font-size: 1.3em;
+}
+
+.footer-links{
+    color: rgba(183, 192, 199, 0.89);
+    font-size: 0.9em;
+    text-decoration: none;
+}
+
+.icons-styling{
+    color: orange;
+}
+
+.copyright-text{
+    font-size: 1rem;
+}
+
+.bg-container{
+    background-color: black;
+}
+
+/*About page styling*/
+
+.about-top-contianer{
+    background-image: linear-gradient(#1f3d64, #022037, #093149);
+    width: 100%;
+
+}
+
+.about-image{
+    border-radius: 50%;
+    width: 50%;
+}
+
+.about-heading{
+    color: #fff;
+}
+
+.about-quote{
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.quotes{
+    font-size: 1.5em;
+}
+
+.byname{
+    font-weight: 500;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
